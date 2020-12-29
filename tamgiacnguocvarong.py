@@ -7,7 +7,7 @@ for i in range(dinhdeptrai,0,-1):
 
     for j in range(2*i-1):
         print('*', end="")
-    print() # in dòng mới
+    print("") # in dòng mới
 
 
 
@@ -26,7 +26,7 @@ for i in range(1,dinhdeptrai+1) :
                 print ("*", end="")
             else :
                 print(" ", end="")
-    print ("") # In ra dòng mới
+         print ("") # In ra dòng mới
 #
 #
 #
@@ -34,7 +34,7 @@ for i in range(1,dinhdeptrai+1) :
 #
     
 # Kết quả ta có được như sau:
-"D:\Lap trinh Python\bai tap mot\venv\Scripts\python.exe" "D:/Lap trinh Python/bai tap mot/main.py"
+"D:\Lap trinh Python\bai tap mot\venv\Scripts\python.exe" "D:/Lap trinh Python/bai tap mot/tamgiacnguocvarong.py"
 *********
  *******
   *****
