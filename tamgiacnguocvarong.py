@@ -27,3 +27,23 @@ for i in range(1,dinhdeptrai+1) :
             else :
                 print(" ", end="")
     print ("") # In ra dòng mới
+#
+#
+#
+#
+#
+    
+# Kết quả ta có được như sau:
+"D:\Lap trinh Python\bai tap mot\venv\Scripts\python.exe" "D:/Lap trinh Python/bai tap mot/main.py"
+*********
+ *******
+  *****
+   ***
+    *
+*********
+ *     *
+  *   *
+   * *
+    *
+
+Process finished with exit code 0
