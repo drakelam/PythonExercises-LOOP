@@ -18,7 +18,7 @@ for i in range(1,dinhdeptrai+1) :
 
         # In ra khoảng trắng
         for j in range(1,i) :
-            print (" ",end="")
+            print (" ",end="") # Nếu bỏ khoảng trắng print ("",end="") Sẽ in ra tam giác vuông ngược
 
         # Code tam giác vừa ngược vừa rỗng
         for j in range(1,(dinhdeptrai * 2 - (2 * i - 1)) +1) :
@@ -45,5 +45,14 @@ for i in range(1,dinhdeptrai+1) :
   *   *
    * *
     *
+  
+# Nếu giá trị mặc định của print (" ",end="") được thay đổi thành print ("",end="") không in ra và tạo khoảng trắng thì nó sẽ ra Tam giác vuông ngược.
+***********
+*       *
+*     *
+*   *
+* *
+*
+
 
 Process finished with exit code 0
